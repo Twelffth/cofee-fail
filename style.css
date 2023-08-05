@@ -1,0 +1,36 @@
+body {
+    background-size: cover;
+}
+
+#one {
+    width: 40%;
+    margin: 0;
+    font-size: 20px;
+    background-color: #3a281e;
+    border-radius: 5px;
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 4px;
+    color: #704d3a;
+    border-color: #3a281e;
+    
+}
+
+.note{
+    color: #8f664f;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 17px;
+    letter-spacing: -1px;
+}
+
+#music_id {
+    width: 20%;
+    margin: 0;
+    font-size: 20px;
+    background-color: #4f3829;
+    border-radius: 5px;
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 4px;
+    color: #be997c;
+    border-color: #4f3829;
+
+}
